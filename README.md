@@ -15,3 +15,10 @@ I am did some exploratory data analysis in this dataset and use new tool for me 
 i really I enjoyed this project and I've been wanting to do it for a while because I'm interested in this field
 
 
+**Software Requirements**
+- Python 
+- NumPy
+- Pandas
+- scikit-learn
+- matplotlib
+- plotly
