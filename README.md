@@ -1,4 +1,4 @@
-# International-Football-EDA ⚽️
+# International Football EDA ⚽️
 
 Analyzing all Internationals Football matches since 1872, which witnessed the first match 
 between the national teams of Scotland and England until 2021 year.
